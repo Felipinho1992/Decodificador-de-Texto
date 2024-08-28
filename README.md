@@ -39,3 +39,5 @@ O resultado deve ser exibido na tela.
 
 ### Linkedin: https://www.linkedin.com/in/felipe-maciel-eng/
 
+### Link Deploy: https://decodificador-de-texto-self.vercel.app/
+
